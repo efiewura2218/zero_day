@@ -1,2 +1,1 @@
-http://example.com/ "
-http://example.ord/ "
+My task 0 on zero day
